@@ -15,9 +15,9 @@ Usage:
 This game was developed in order to have fun and kill some time!!!
 
 Authors:
-Brandon Phillips: Lead Programmer - https://github.com/bdon-htb
-Julien Ouellette: Lead Programmer
-Joseph Katopo: Site Developer & Video Production
-Damian Carbone: Documentation
-Daniel Ngo: Graphic Designer
+Brandon Phillips: Lead Programmer - https://github.com/bdon-htb  
+Julien Ouellette: Lead Programmer  
+Joseph Katopo: Site Developer & Video Production  
+Damian Carbone: Documentation  
+Daniel Ngo: Graphic Designer  
 Nathan Escalona: Menu & UI Design
